@@ -18,8 +18,10 @@ void main(List<String> arguments) {
   double myNumber=2.225;
   String myText;
   myText = myNumber.toString();
-  print(myText+myNumber);
+  print(myText);
 
-  
+  String b ='a';
+  print(b);
 
+// djsncdkskc
 }
